@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from './components/Navbar'
 import Carousel from './components/Carousel'
-// import Progresser from './components/Progresser'
+import Progresser from './components/Progresser'
 // import Productlist from './components/Productlist'
 import Banner from './components/Banner'
 // import Offer from './components/Offer'
@@ -19,8 +19,8 @@ export default function App() {
 
     < Navbar />
     < Carousel />
-    {/* < Progresser />
-    < Productlist /> */}
+    < Progresser />
+    {/* < Productlist /> */}
     < Banner />
     {/* < Offer />
     < Card />
